@@ -1,12 +1,12 @@
+//Author: Chathurika De Silva
+
 import io.restassured.path.json.JsonPath;
 import org.testng.Assert;
 import org.testng.annotations.*;
 import io.restassured.response.Response;
-
 import java.util.*;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-
 import static io.restassured.RestAssured.given;
 
 public class SampleAPITest {
