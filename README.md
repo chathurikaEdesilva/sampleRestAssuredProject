@@ -24,11 +24,15 @@ The Promotions element with Name = "Gallery" has a Description that contains the
 
 > git clone https://github.com/chathurikaEdesilva/sampleRestAssuredProject.git
 
-2. Clean the repository
+2. Go to the repository
+
+> cd $project_home
+
+3. Clean the repository
 
 > mvn clean
 
-3. Run the repository
+4. Run the repository
 
 > mvn test
 
