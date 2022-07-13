@@ -28,7 +28,7 @@ The Promotions element with Name = "Gallery" has a Description that contains the
 
 > cd $project_home
 
-3. Clean the repository
+3. Open a terminal and issue the command to clean the repository
 
 > mvn clean
 
