@@ -19,3 +19,25 @@ The Promotions element with Name = "Gallery" has a Description that contains the
 - A device with git installed
 
 ### Steps to run
+
+1. Clone below git repository
+
+> git clone https://github.com/chathurikaEdesilva/sampleRestAssuredProject.git
+
+2. Clean the repository
+
+> mvn clean
+
+3. Run the repository
+
+> mvn test
+
+### Viewing the result file
+
+You can view the results from the following methods
+
+1. Go to following location and open testng-results.xml
+
+> $project_home/target/surefire-reports
+
+2. Go to the above location and open emailable-report.html to view in browser
